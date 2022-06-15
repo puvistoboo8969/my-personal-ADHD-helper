@@ -1,0 +1,18 @@
+ul{
+float : right;
+font-family : "Indie flower" , "Verdana";
+list-style-type : none;
+font-size : 25px;
+font-weight : bold;
+}
+li{
+display: inline;
+}
+a{
+color : white;
+}
+body{
+background-image : url("puplbg.png");
+background-size : cover;
+}
+
